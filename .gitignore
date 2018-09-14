@@ -1,2 +1,4 @@
-vv/*
+venv
 *.pyc
+.DS_Store
+vv

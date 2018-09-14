@@ -5,7 +5,7 @@ colorlover==0.2.1
 dash-core-components==0.18.1
 dash-html-components==0.8.0
 dash-renderer==0.11.3
-dash==0.21.0
+dash==0.26.0
 decorator==4.0.11
 enum34==1.1.6
 flask-cors
